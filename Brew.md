@@ -1,4 +1,4 @@
-# Brew CheetSheet
+# Brew CheatSheet
 
 ## Brew install
 ~~~

@@ -1,4 +1,4 @@
-# Docker CheetSheetRepo
+# Docker CheatSheet
 ## Docker install
 [install Docker for Mac in Docker.com](https://docs.docker.com/docker-for-mac/install)
 

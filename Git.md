@@ -1,8 +1,8 @@
-# Git CheetSheetRepo
+# Git CheatSheet
 
 ## Git install
 ### Brew install
-[Check Brew CheetSheet]((https://github.com/liante0904/CheetSheetRepo/blob/master/Brew.md))
+[Check Brew CheetSheet](https://github.com/liante0904/CheetSheetRepo/blob/master/Brew.md)
 
 ### Git install
 ``$ brew install git``
@@ -31,12 +31,22 @@ export PATH=/usr/local/bin:$PATH
 ``$ git init``  
 ``$ git add something.file``  
 ``$ git commit -m "commit message"``  
-``$ git git push origin master``  
+``$ git push origin master``  
 ``$ git log``  
+- to quiet press 'Q' key
 
+## git Branch
 
+``$ git branch --help``
+``$ git branch --list``
+- add branch
+  - ``$ git branch <branchName>``
+- switch branch
+  - ``$ git checkout <branchName>``
 
-
-
+- back to the past(commit version)
+  - ``$ git checkout <commit hash>``
+- back to the future(
+  - ``$ git checkout master``
 ## Reference
 <http://joshualog.com/MacOSX-Homebrew%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-git-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/>

@@ -1,9 +1,7 @@
-# Python CheetSheetRepo
+# Python CheatSheet
 
-## brew install
-   ``$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"``
-
-  ``$ brew update``
+## brew install, update
+[Brew.md](https://github.com/liante0904/CheetSheetRepo/blob/master/Brew.md)
 
 ## pre-install package(for python)
 `$ xcode-select --install`   
