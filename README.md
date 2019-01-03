@@ -5,8 +5,8 @@
 
 
 ## Content List
-- [vi](https://github.com/liante0904/CheatShetRepo/blob/master/vi.md)
-- [Brew(Mac only)](https://github.com/liante0904/CheatShetRepo/blob/master/Brew.md)
+- [vi](https://github.com/liante0904/CheatSheetRepo/blob/master/vi.md)
+- [Brew(Mac only)](https://github.com/liante0904/CheatSheetRepo/blob/master/Brew.md)
 - [Python](https://github.com/liante0904/CheatSheetRepo/blob/master/Python.md)
 
 - [Git](https://github.com/liante0904/CheatSheetRepo/blob/master/Git.md)
