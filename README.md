@@ -11,3 +11,4 @@
 
 - [Git](https://github.com/liante0904/CheatSheetRepo/blob/master/Git.md)
 - [Docker](https://github.com/liante0904/CheatSheetRepo/blob/master/Docker.md)
+- [intelliJ](https://github.com/liante0904/CheatSheetRepo/blob/master/intelliJ.md)
